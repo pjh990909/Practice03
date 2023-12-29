@@ -5,10 +5,10 @@ public class Ex03 {
 	public static void main(String[] args) {
 		
 		/*
-		 ***
-		 **          틀림
-		 *
-		 
+		 ***             ***
+		 **          틀림 ***
+		 *               ***
+		                 ***
 		 */
 		
 		int x,y;
